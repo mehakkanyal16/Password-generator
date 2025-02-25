@@ -69,7 +69,7 @@ While building this project, I gained hands-on experience with several **React H
    ```
 2. Navigate to the project folder:
    ```sh
-   cd chai-aur-react/password-generator
+   cd password-generator
    ```
 3. Install dependencies:
    ```sh
